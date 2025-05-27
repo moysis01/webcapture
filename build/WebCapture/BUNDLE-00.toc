@@ -1,0 +1,3 @@
+([('WebCapture',
+   '/Users/moysism/Documents/GitHub/webcapture/dist/WebCapture',
+   'EXECUTABLE')],)
